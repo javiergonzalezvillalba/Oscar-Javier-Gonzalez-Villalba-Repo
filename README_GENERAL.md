@@ -1,16 +1,21 @@
+# NOTAS DE: 
 # Oscar-Javier-Gonzalez-Villalba-Repo
 This is a repository with some of my work
 
-# Portfolio Title
+# Titulo del portfolio
 
-## projects
+## projects 1
 
-### Subsection
-
-### Subsection
+### Aqui va la descripcion
 
 ## Section 2
 
-### Subsection
+### Aqui va la descripcion
 
-### Subsection
+## Section 3
+
+### Aqui va la descripcion
+
+## Section 4
+
+### Aqui va la descripcion
