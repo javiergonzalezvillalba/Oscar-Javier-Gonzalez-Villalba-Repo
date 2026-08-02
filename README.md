@@ -3,7 +3,7 @@ This is a repository with some of my work
 
 # Portfolio Title
 
-## Section 1
+## projects
 
 ### Subsection
 
